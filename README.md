@@ -6,7 +6,7 @@ O Brasil se destaca na pecuária graças ao uso de pastagens de Brachiaria spp.,
 
 Este trabalho busca avaliar o desempenho de RNCs e otimizadores em conjunto com MAML para recomendar algoritmos eficazes na classificação de plantas daninhas e pastagens a partir de imagens de drones. O estudo foi realizado nos municípios de São Miguel dos Campos e Tanque D’Arca, no estado de Alagoas, Nordeste do Brasil, utilizando imagens de drone do tipo ortomosaico.
 
-Foram aplicadas técnicas como aumento de dados, oversampling, redes neurais convolucionais (RNCs) com MAML, e validação cruzada K-Fold, resultando em melhorias na precisão, no equilíbrio das classes e na generalização do modelo. Os resultados mostram que o PSO é o otimizador mais eficaz, com a melhor acurácia (57,70%) e menor tempo de processamento (101,15s). A abordagem baseada em deep learning confirma seu potencial para identificar plantas daninhas tóxicas, promovendo eficiência no manejo agrícola.
+Foram aplicadas técnicas como aumento de dados, oversampling, redes neurais convolucionais (RNCs) com MAML, e validação cruzada K-Fold, resultando em melhorias na precisão, no equilíbrio das classes e na generalização do modelo. Os resultados mostram que o PSO é o otimizador mais eficaz em termos de acurácia (57,70%) e com menor tempo de processamento foi o MAMAL 1shot (96,75s). A abordagem baseada em deep learning confirma seu potencial para identificar plantas daninhas tóxicas, promovendo eficiência no manejo agrícola.
 
 Passo a Passo de Instalação e Execução
 
